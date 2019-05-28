@@ -4,7 +4,6 @@
  # IDEA #
  .idea/
  *.iml
- !/.idea/vcs.xml
 
  # Eclipse #
  .settings/
